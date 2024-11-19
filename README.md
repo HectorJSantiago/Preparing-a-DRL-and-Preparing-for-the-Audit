@@ -6,5 +6,5 @@
 - <b>The second step is Identifying the Sample Set. This is where I determine how many of each component will need to be audited to verify compliance.</b>
     - [Identifying the Sample Set](https://docs.google.com/spreadsheets/d/1pgyXdIXwfMBDIt_NAAqHMeY6ZEUS31LDQGZvfrBcrC8/edit?usp=sharing)
 
-- <b>Preparing the DRL Tracker</b>
+- <b>Once I've sent my request for the documents I need, I will track the receipt of each item while developing the audit plan.</b>
     - [DRL Tracker](https://docs.google.com/spreadsheets/d/1EUppdDr_pPWxIM5qsUPFHwPavonyYGY3Wo_M7Bv3jxA/edit?usp=sharing)
