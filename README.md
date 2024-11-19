@@ -5,3 +5,6 @@
  
 - <b>Identifying the Sample Set</b>
     - [Sample Set](https://docs.google.com/spreadsheets/d/1pgyXdIXwfMBDIt_NAAqHMeY6ZEUS31LDQGZvfrBcrC8/edit?usp=sharing)
+
+- <b>Preparing the DRL Tracker</b>
+    - [DRL Tracker](https://docs.google.com/spreadsheets/d/1EUppdDr_pPWxIM5qsUPFHwPavonyYGY3Wo_M7Bv3jxA/edit?usp=sharing)
