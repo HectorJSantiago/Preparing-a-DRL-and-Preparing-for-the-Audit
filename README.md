@@ -1,6 +1,6 @@
 <h1>Preparing a Document Request List and Preparing for the Audit:</a> <a </a></h1>
 
-- <b>The first step in creating a Document Request List (DRL) and preparing for a Team Audit - is to identify all applicable controls.</b>
+- <b>The first step in creating a Document Request List (DRL) and preparing for a Team Audit - is to review the inventory and identify all applicable controls.</b>
   - [Identifying Applicable Controls - Network Team Security Controls / No Wireless](https://docs.google.com/spreadsheets/d/1jtcM-hf5CwhY1WEVZdYTtFJOhkrU_WorBfVVmtjn--E/edit?usp=sharing)
  
 - <b>Identifying the Sample Set</b>
